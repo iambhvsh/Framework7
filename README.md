@@ -17,8 +17,8 @@ The **Framework7s Kitchen Sink** template is a standalone web application that r
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/Framework7s-Kitchen-Sink.git
-    cd Framework7s-Kitchen-Sink
+    git clone https://github.com/iambhvsh/Framework7.git
+    cd Framework7
     ```
 
 2. **Open the App**:
