@@ -13,6 +13,23 @@ The **Framework7s Kitchen Sink** template is a standalone web application that r
 - **Dynamic Changes**: Change themes and modes dynamically within the app interface. 🔄
 - **Extensive Documentation**: Comprehensive guidance to help developers. 📚
 
+## Files
+
+### CSS
+
+``` bash
+https://unpkg.com/framework7@8.3.3/framework7-bundle.min.css
+```
+
+### JS
+
+``` bash
+https://unpkg.com/framework7@8.3.3/framework7-bundle.min.js
+```
+
+<a href="https://unpkg.com/browse/framework7">
+More at UNPKG...</a>
+
 ## Getting Started
 
 1. **Clone the Repository**:
