@@ -27,7 +27,7 @@ https://unpkg.com/framework7@8.3.3/framework7-bundle.min.css
 https://unpkg.com/framework7@8.3.3/framework7-bundle.min.js
 ```
 
-<a href="https://unpkg.com/browse/framework7">
+<a href="https://unpkg.com/browse/framework7@8.3.3">
 More at UNPKG...</a>
 
 ## Getting Started
